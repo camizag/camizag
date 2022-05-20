@@ -10,5 +10,8 @@ I am currently studying to become a full-stack web developer through the Tecnol√
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-## Activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camizag)](https://github.com/anuraghazra/github-readme-stats)
