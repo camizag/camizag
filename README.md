@@ -17,4 +17,4 @@ I'm currently studying to become a full-stack web developer. I'm enrolled in an 
 <br>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=camizag)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=camizag.visitor-badge&left_color=grey&right_color=blue&left_text=Hello%20Visitors)
