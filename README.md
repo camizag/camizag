@@ -1,5 +1,6 @@
 ## About Me
-Hi, my name is Camila! I'm currently studying to become a full-stack web developer through the Tecnológico de Monterrey's coding bootcamp. 
+Hi, my name is Camila! <br>
+I'm currently studying to become a full-stack web developer through the Tecnológico de Monterrey's coding bootcamp. 
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
