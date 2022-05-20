@@ -1,6 +1,6 @@
 ## About Me
 Hi, my name is Camila! <br>
-I'm currently studying to become a full-stack web developer. The bootcamp I'm enrolled in an online coding bootcamp given by Trilogy Education Services and Tecnológico de Monterrey.
+I'm currently studying to become a full-stack web developer. I'm enrolled in an online coding bootcamp given by Trilogy Education Services and Tecnológico de Monterrey.
 
 ## Skills & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
