@@ -14,3 +14,7 @@ I'm currently studying to become a full-stack web developer. I'm enrolled in an 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-username)
