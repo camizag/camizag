@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/99842669/172064843-1f2eb4a7-d276-4375-a470-ec2e858280e9.png)
+![github-header-image copy 2](https://user-images.githubusercontent.com/99842669/172065118-6ed390fe-a118-4a70-a7a9-18bea39c99ac.png)
 
 ## About Me
 Hi, my name is Camila! <br>
