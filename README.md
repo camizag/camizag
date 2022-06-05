@@ -21,3 +21,7 @@ I'm currently studying to become a full-stack web developer. I'm enrolled in an 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<br>
+<br>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camizag&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
