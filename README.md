@@ -1,7 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/99842669/172080803-c6338865-b98c-4af4-938b-85fcadf7f596.png)
 
 ## About Me
-Hi, my name is Camila! <br>
 I'm currently studying to become a fullstack web developer. I'm enrolled in an online coding bootcamp given by Trilogy Education Services and Tecnológico de Monterrey.
 
 ## Tech & Tools
