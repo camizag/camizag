@@ -24,9 +24,11 @@ I'm currently studying to become a fullstack web developer. I'm enrolled in an o
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contact me
-![gmail-camilazags](https://user-images.githubusercontent.com/99842669/172082308-70decc99-005b-4b44-a42e-a880f3dd6304.svg)
-![twitter-cami_zag](https://user-images.githubusercontent.com/99842669/172082393-ceb8e9f9-747c-4316-81f4-c92bec344595.svg)
-![ig-camizag](https://user-images.githubusercontent.com/99842669/172082872-470d690e-cc6c-4f52-a8c7-ca177518874b.svg)
+<a href="mailto: camilazags@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://twitter.com/Cami_Zag">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<a href="https://www.instagram.com/camizag/">![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.linkedin.com/in/camila-zagal-str%C3%B6msd%C3%B6rfer-865a7a216/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://discord.com/users/Yberien#7364">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 <br>
 
