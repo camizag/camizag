@@ -34,3 +34,5 @@ I'm currently studying to become a fullstack web developer. I'm enrolled in an o
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=camizag&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+![lofi](https://user-images.githubusercontent.com/99842669/173194032-4c74b80b-ad55-4503-9b1c-e5d75ca2b3ab.gif)
